@@ -1,10 +1,10 @@
-Champion of the Parish
+Hopeful Eidolon
 Dauntless Bodyguard
-Dragon Hunter
+Emerge Unscathed
 Kytheon, Hero of Akros
-Mardu Woe-Reaper
+Soul Warden
 Mother of Runes
-Skymarcher Aspirant
+Healer's Hawk
 Adanto Vanguard
 Glory-Bound Initiate
 Selfless Spirit
@@ -59,7 +59,7 @@ Vendilion Clique
 Glen Elendra Archmage
 Sower of Temptation
 Venser, Shaper Savant
-Whirler Rogue
+Reef Worm
 Mulldrifter
 Consecrated Sphinx
 Frost Titan
@@ -83,13 +83,13 @@ Supreme Will
 Commit // Memory
 Cryptic Command
 Fact or Fiction
-Glimmer of Genius
+Cackling Counterpart
 Mystic Confluence
 Dig Through Time
 Gitaxian Probe
 Ponder
 Preordain
-Serum Visions
+Temporal Mastery
 Crush of Tentacles
 Treasure Cruise
 Search for Azcanta
@@ -99,10 +99,10 @@ Carrion Feeder
 Diregraf Ghoul
 Dread Wanderer
 Gravecrawler
-Vampire Lacerator
+Puppeteer Clique
 Asylum Visitor
 Bloodghast
-Dark Confidant
+Desecration Demon
 Dusk Legion Zealot
 Gifted Aetherborn
 Glint-Sleeve Siphoner
@@ -114,16 +114,16 @@ Flesh Carver
 Ophiomancer
 Plague Mare
 Vampire Nighthawk
-Yahenni, Undying Partisan
+Ob Nixilis, the Fallen
 Gonti, Lord of Luxury
 Kalitas, Traitor of Ghet
 Ravenous Chupacabra
 Skinrender
 Doom Whisperer
-Gray Merchant of Asphodel
+Necroskitter
 Grave Titan
 Tasigur, the Golden Fang
-Liliana, the Last Hope
+Ob Nixilis Reignited
 Noxious Gearhulk
 Disfigure
 Fatal Push
@@ -143,8 +143,8 @@ Mind Twist
 Arguel's Blood Fast
 Recurring Nightmare
 Falkenrath Gorger
-Firedrinker Satyr
-Ghitu Lavarunner
+Soulbright Flamekin
+Vexing Devil
 Goblin Guide
 Grim Lavamancer
 Monastery Swiftspear
@@ -168,7 +168,7 @@ Glorybringer
 Thundermaw Hellkite
 Emissary of Grudges
 Inferno Titan
-Greater Gargadon
+Combustible Gearhulk
 Chandra, Torch of Defiance
 Chandra, Flamecaller
 Burst Lightning
@@ -184,12 +184,12 @@ Fireblast
 Chain Lightning
 Forked Bolt
 Arc Trail
-Sweltering Suns
+Thunderous wrath
 Fiery Confluence
 Hour of Devastation
 The Flame of Keld
 Sulfuric Vortex
-Eidolon of the Great Revel
+Simian Spirit Guide
 Arbor Elf
 Avacyn's Pilgrim
 Birds of Paradise
@@ -241,7 +241,7 @@ Courser of Kruphix
 Reflector Mage
 Spell Queller
 Teferi, Hero of Dominaria
-Supreme Verdict
+Swans of Bryn Argoll
 Fractured Identity
 Hostage Taker
 The Scarab God
@@ -291,7 +291,7 @@ Walking Ballista
 Solemn Simulacrum
 Wurmcoil Engine
 Myr Battlesphere
-Fountain of Renewal
+Chromatic Lantern
 Retrofitter Foundry
 Sensei's Divining Top
 Skullclamp
