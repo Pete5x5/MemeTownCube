@@ -235,7 +235,7 @@ Harmonize
 Oath of Nissa
 Rancor
 Utopia Sprawl
-Fertile Ground
+Awakening Zone
 Sylvan Library
 Courser of Kruphix
 Reflector Mage
@@ -253,7 +253,7 @@ Kolaghan's Command
 Dreadbore
 Bloodbraid Elf
 Dragonlord Atarka
-Atarka's Command
+Burning-Tree Emissary
 Qasali Pridemage
 Kitchen Finks
 Knight of the Reliquary
@@ -297,7 +297,7 @@ Sensei's Divining Top
 Skullclamp
 Azorius Signet
 Dimir Signet
-Engineered Explosives
+Nevinyrral's Disk
 Izzet Signet
 Mind Stone
 Orzhov Signet
@@ -308,7 +308,7 @@ Shrine of Loyal Legions
 Smuggler's Copter
 Sorcerous Spyglass
 Umezawa's Jitte
-Winter Orb
+Everflowing Chalice
 Aethersphere Harvester
 Coalition Relic
 Crucible of Worlds
@@ -340,7 +340,7 @@ Glacial Fortress
 Godless Shrine
 Hallowed Fountain
 Hinterland Harbor
-Horizon Canopy
+Brushland
 Inspiring Vantage
 Kessig Wolf Run
 Mana Confluence
