@@ -172,7 +172,7 @@ Combustible Gearhulk
 Chandra, Torch of Defiance
 Chandra, Flamecaller
 Burst Lightning
-Lava Dart
+Magma Spray
 Lightning Bolt
 Abrade
 Lightning Strike
