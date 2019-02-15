@@ -11,7 +11,7 @@ while True: #Get number of players to be generated
         print('Invalid input')
         continue
     else:
-        if players < 1:  #Can't generate 0 players..
+        if players < 2:
             print('Not enough players')
             continue
         elif players > 8:   #Cap on number of players
@@ -29,18 +29,14 @@ sealed = []
 
 allcards=[line.strip() for line in open('TheCube.txt')] #Import card list and remove newlines
 
-for v1 in range(players):
-    sealedfile = open('sealed' + str(int(v1+1)) + '.txt', 'w')
+for v1 in range(players): #repeat for each player
+    sealedfile = open('sealed' + str(int(v1+1)) + '.txt', 'w') #create a new file for each player
     for card in range(numcards):
-        if len(allcards) == 0:
-            break
-        else:
-            card = allcards[random.randint(0,len(allcards)-1)]
-            cardschosen += [card]
-            allcards.remove(card)
-            sealedfile.write(card + '\n')
-        
-    sealed.append(cardschosen)
-    cardschosen = []
-    print(sealed[v1])
+        card = allcards[random.randint(0,len(allcards)-1)] #pick a random card
+        cardschosen += [card] #add the cosen card to it's list
+        allcards.remove(card) #remove the chosen card from the card pool
+        sealedfile.write(card + '\n') #write the card to it's text file
+    sealed.append(cardschosen) #save the generated list in the sealed list
+    cardschosen = [] #clear cards chosen
+    print(sealed[v1]) #print the list to output
     print('')
