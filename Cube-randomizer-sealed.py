@@ -30,6 +30,7 @@ sealed = []
 allcards=[line.strip() for line in open('TheCube.txt')] #Import card list and remove newlines
 
 for v1 in range(players):
+    sealedfile = open('sealed' + str(int(v1+1)) + '.txt', 'w')
     for card in range(numcards):
         if len(allcards) == 0:
             break
@@ -37,6 +38,8 @@ for v1 in range(players):
             card = allcards[random.randint(0,len(allcards)-1)]
             cardschosen += [card]
             allcards.remove(card)
+            sealedfile.write(card + '\n')
+        
     sealed.append(cardschosen)
     cardschosen = []
     print(sealed[v1])
