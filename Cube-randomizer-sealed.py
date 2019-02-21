@@ -21,15 +21,14 @@ while True: #Get number of players to be generated
         else:
             break
 
-numcards = int(768 / players) #Get number of cards per player
+allcards=[line.strip() for line in open('TheCube.txt')] #Import card list and remove newlines
+
+numcards = int(len(allcards) / players) #Get number of cards per player
 print('Each player will get ' + str(numcards) + ' cards.')
 
 cardschosen = [] #set all vars as lists
-allcards = []
 sealed = []
 gendate = (datetime.datetime.now()).strftime('%Y%m%d-%H%M%S') #set the date and time the files are generated
-
-allcards=[line.strip() for line in open('TheCube.txt')] #Import card list and remove newlines
 
 for v1 in range(players): #repeat for each player
     sealedfile = open('sealed' + str(int(v1+1)) + '_' + gendate + '.txt', 'w') #create a new file for each player
