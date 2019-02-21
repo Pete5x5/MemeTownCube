@@ -1,4 +1,5 @@
 import random   #Enable random number functionality
+import datetime #Enable date and time functionality
 print('''CUBE RANDOMIZER - SEALED
 
 How many players?''')
@@ -26,11 +27,12 @@ print('Each player will get ' + str(numcards) + ' cards.')
 cardschosen = [] #set all vars as lists
 allcards = []
 sealed = []
+gendate = (datetime.datetime.now()).strftime('%Y%m%d-%H%M%S') #set the date and time the files are generated
 
 allcards=[line.strip() for line in open('TheCube.txt')] #Import card list and remove newlines
 
 for v1 in range(players): #repeat for each player
-    sealedfile = open('sealed' + str(int(v1+1)) + '.txt', 'w') #create a new file for each player
+    sealedfile = open('sealed' + str(int(v1+1)) + '_' + gendate + '.txt', 'w') #create a new file for each player
     for card in range(numcards):
         card = allcards[random.randint(0,len(allcards)-1)] #pick a random card
         cardschosen += [card] #add the cosen card to it's list
