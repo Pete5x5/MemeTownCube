@@ -234,7 +234,7 @@ Search for Tomorrow
 Harmonize
 Oath of Nissa
 Rancor
-Utopia Sprawl
+Glimpse Of Nature
 Awakening Zone
 Sylvan Library
 Courser of Kruphix
@@ -436,7 +436,7 @@ Sheoldred, Whispering One
 Griselbrand
 Liliana Vess
 Rend Flesh
-Booster Tutor
+Vampiric Tutor
 Dark Ritual
 Tragic Slip
 Diabolic Edict
@@ -476,7 +476,7 @@ Sylvan Caryatid
 Runic Armasaur
 Selvala, Heart of the Wilds
 Bramble Sovereign
-Garruk Relentless
+Domri, Chaos Bringer
 Beast Within
 Krosan Grip
 Chord of Calling
@@ -526,7 +526,7 @@ Rewind
 Trickbind
 Temporal Adept
 Desertion
-Wipe Away
+Viral Drake
 Ethersworn Adjudicator
 Echo Mage
 Lighthouse Chronologist
@@ -610,7 +610,7 @@ Conqueror's Flail
 Lightning Greaves
 Cultivator's Caravan
 Sol Ring
-Split Screen
+Stuffy Doll
 Throne of the God-Pharaoh
 Planar Bridge
 The Immortal Sun
@@ -737,7 +737,7 @@ Temple of Enlightenment
 Terramorphic Expanse
 Spire of Industry
 Rogue's Passage
-Forgotten Cave
+Thespian's Stage
 Kher Keep
 Cascading Cataracts
 Maze of Ith
@@ -747,8 +747,8 @@ Reliquary Tower
 Tolarian Academy
 Academy Ruins
 Faerie Conclave
-Lonely Sandbar
-Secluded Steppe
+Mosswort Bridge
+Dark Depths
 Sejiri Steppe
 Seachrome Coast
 Razorverge Thicket
