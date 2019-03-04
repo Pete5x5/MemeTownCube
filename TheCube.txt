@@ -261,7 +261,7 @@ Sorin, Grim Nemesis
 Vindicate
 Deathrite Shaman
 Vraska, Relic Seeker
-Status
+Status // Statue
 Abrupt Decay
 Assassin's Trophy
 Coiling Oracle
@@ -273,7 +273,7 @@ Fire // Ice
 Izzet Charm
 Electrolyze
 Figure of Destiny
-Integrity
+Integrity // Intervention
 Wear // Tear
 Boros Charm
 Lightning Helix
@@ -649,7 +649,7 @@ Kiora's Follower
 The Gitrog Monster
 Maelstrom Pulse
 Golgari Charm
-Find
+Find // Finality
 Magister of Worth
 Ashen Rider
 Tidehollow Sculler
