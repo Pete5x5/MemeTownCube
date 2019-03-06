@@ -231,7 +231,7 @@ Farseek
 Life from the Loam
 Cultivate
 Search for Tomorrow
-Harmonize
+Greater Good
 Oath of Nissa
 Rancor
 Glimpse Of Nature
@@ -295,13 +295,13 @@ Chromatic Lantern
 Retrofitter Foundry
 Sensei's Divining Top
 Skullclamp
-Azorius Signet
-Dimir Signet
+Culling Dais
+Mycosynth Lattice
 Nevinyrral's Disk
-Izzet Signet
+Crystalline Crawler
 Mind Stone
-Orzhov Signet
-Rakdos Signet
+Gauntlet of Power
+Sculpting Steel
 Ratchet Bomb
 Shrine of Burning Rage
 Shrine of Loyal Legions
@@ -409,7 +409,7 @@ Hallowed Spiritkeeper
 Mirran Crusader
 Mirror Entity
 Silverblade Paladin
-Hokori, Dust Drinker
+Arena Rector
 Ranger of Eos
 Archangel of Thune
 Baneslayer Angel
@@ -456,8 +456,8 @@ Sorin Markov
 Hunted Horror
 Maralen of the Mornsong
 Makeshift Mannequin
-Midnight Banshee
-Nettlevine Blight
+Abyssal Persecutor
+Stunning Reversal
 Profane Command
 Quest for the Gravelord
 Corrosive Mentor
@@ -482,7 +482,7 @@ Krosan Grip
 Chord of Calling
 Vines of Vastwood
 Natural Order
-Plow Under
+Doubling Season
 Tooth and Nail
 Fastbond
 Sandwurm Convergence
@@ -599,9 +599,9 @@ Epochrasite
 Filigree Familiar
 Metalworker
 Thought-Knot Seer
-Lodestone Golem
+Karn Liberated
 Silent Arbiter
-Precursor Golem
+Rings of Brighthearth
 Duplicant
 Kozilek, Butcher of Truth
 Ulamog, the Ceaseless Hunger
