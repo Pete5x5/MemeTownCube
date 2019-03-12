@@ -1,22 +1,35 @@
 import random   #Enable random number functionality
 import datetime #Enable date and time functionality
+import sys      #Enable system functionality
 print('''CUBE RANDOMIZER - SEALED
 
 How many players?''')
 
+badarg = 0 #assume there is a valid command line argument
+
+try: #Check to see if there's a command line argument
+    players = int(sys.argv[1])
+except (IndexError, ValueError): #if not (or it's not an int)
+    badarg = 1 #ignore command line argument
+
 while True: #Get number of players to be generated
-    players = input()
+    if badarg == 1:
+        players = input()
+        
     try:    #Make sure input is an int
-         players = int(players)
+        players = int(players)
     except ValueError:
         print('Invalid input')
+        badarg = 1 #ignore command line argument
         continue
     else:
         if players < 2:
             print('Not enough players')
+            badarg = 1 #ignore command line argument
             continue
         elif players > 8:   #Cap on number of players
             print('That\'s too many players!')
+            badarg = 1 #ignore command line argument
             continue
         else:
             break
