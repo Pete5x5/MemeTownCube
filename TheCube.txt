@@ -37,7 +37,7 @@ Forsake the Worldly
 Declaration in Stone
 Gather the Townsfolk
 Council's Judgment
-Lingering Souls
+Settle the Wreckage
 Timely Reinforcements
 Armageddon
 Sram's Expertise
@@ -69,7 +69,7 @@ Brainstorm
 Condescend
 Force Spike
 Opt
-Spell Pierce
+Arcane Denial
 Counterspell
 Daze
 Impulse
@@ -97,7 +97,7 @@ Opposition
 Bloodsoaked Champion
 Carrion Feeder
 Diregraf Ghoul
-Dread Wanderer
+Crypt Ghast
 Gravecrawler
 Puppeteer Clique
 Asylum Visitor
@@ -170,7 +170,7 @@ Emissary of Grudges
 Inferno Titan
 Combustible Gearhulk
 Chandra, Torch of Defiance
-Chandra, Flamecaller
+Chaos Warp
 Burst Lightning
 Magma Spray
 Lightning Bolt
@@ -193,7 +193,7 @@ Simian Spirit Guide
 Arbor Elf
 Avacyn's Pilgrim
 Birds of Paradise
-Elves of Deep Shadow
+Bloom Tender
 Llanowar Elves
 Noble Hierarch
 Pelt Collector
@@ -211,7 +211,7 @@ Reclamation Sage
 Rishkar, Peema Renegade
 Thrashing Brontodon
 Tireless Tracker
-Oracle of Mul Daya
+Wayward Swordtooth
 Surrak, the Hunt Caller
 Vengevine
 Acidic Slime
@@ -224,7 +224,7 @@ Garruk Wildspeaker
 Nissa, Worldwaker
 Verdurous Gearhulk
 Collected Company
-Adventurous Impulse
+Beastmaster Ascension
 Green Sun's Zenith
 Explore
 Farseek
@@ -396,7 +396,7 @@ Enlightened Tutor
 Iona, Shield of Emeria
 Oblivion Ring
 Reveillark
-Soldier of the Pantheon
+Grand Abolisher
 Student of Warfare
 Anafenza, Kin-Tree Spirit
 Consul's Lieutenant
@@ -459,7 +459,7 @@ Makeshift Mannequin
 Abyssal Persecutor
 Stunning Reversal
 Profane Command
-Quest for the Gravelord
+Read the Bones
 Corrosive Mentor
 Bloodchief Ascension
 Wolfbriar Elemental
@@ -505,12 +505,12 @@ Woodland Guidance
 Thassa, God of the Sea
 Stunt Double
 Phyrexian Metamorph
-Arcane Savant
+Pongify
 Meloku the Clouded Mirror
 Riftwing Cloudskate
 Tamiyo, the Moon Sage
 Into the Roil
-Capsize
+Disallow
 Thirst for Knowledge
 Force of Will
 Show and Tell
@@ -668,7 +668,7 @@ Murkfiend Liege
 Cut // Ribbons
 Recoil
 Dragonlord Silumgar
-Wydwen, the Biting Gale
+Lim-Dûl's Vault
 Tezzeret, Agent of Bolas
 Forbidden Alchemy
 Far // Away
@@ -699,7 +699,7 @@ Godhead of Awe
 Jenara, Asura of War
 Manamorphose
 Madrush Cyclops
-Reborn Hope
+Decimate
 Putrefy
 Rendclaw Trow
 Sedraxis Specter
