@@ -427,7 +427,7 @@ Graveyard Marshal
 Relentless Dead
 Vampire Hexmage
 Zulaport Cutthroat
-Fleshbag Marauder
+Plaguecrafter
 Geralf's Messenger
 Midnight Reaper
 Shriekmaw
