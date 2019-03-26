@@ -277,7 +277,7 @@ Integrity // Intervention
 Wear // Tear
 Boros Charm
 Lightning Helix
-Nicol Bolas, God-Pharaoh
+Thantis, the Warweaver
 Emrakul, the Promised End
 Karn, Scion of Urza
 Ugin, the Spirit Dragon
@@ -315,7 +315,7 @@ Crucible of Worlds
 Mimic Vat
 Sword of Fire and Ice
 Vedalken Shackles
-Coercive Portal
+Ensnaring Bridge
 Batterskull
 Gilded Lotus
 Ancient Tomb
@@ -434,7 +434,7 @@ Shriekmaw
 Massacre Wurm
 Sheoldred, Whispering One
 Griselbrand
-Liliana Vess
+Phyrexian Obliterator
 Rend Flesh
 Vampiric Tutor
 Dark Ritual
@@ -536,7 +536,7 @@ Thada Adel, Acquisitor
 Leyline of Anticipation
 Acquire
 Ancestral Vision
-Aeon Chronicler
+Time Stop
 Bringer of the Blue Dawn
 Clockspinning
 Chronozoa
@@ -627,10 +627,10 @@ Leovold, Emissary of Trest
 Muldrotha, the Gravetide
 Nicol Bolas, Planeswalker
 Cruel Ultimatum
-Esper Charm
+Doran, the Siege Tower
 Sphinx of the Steel Wind
 Tamiyo, Field Researcher
-Wargate
+Palladia-Mors, the Ruiner
 Woolly Thoctar
 Broodmate Dragon
 Boros Reckoner
@@ -694,7 +694,7 @@ Behemoth Sledge
 Boggart Ram-Gang
 Dragon Broodmother
 Empyrial Archangel
-Fire-Field Ogre
+Villainous Wealth
 Godhead of Awe
 Jenara, Asura of War
 Manamorphose
