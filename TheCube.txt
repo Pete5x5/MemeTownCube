@@ -473,13 +473,13 @@ Fauna Shaman
 Resilient Khenra
 Scavenging Ooze
 Sylvan Caryatid
-Runic Armasaur
+Bear Umbra
 Selvala, Heart of the Wilds
 Bramble Sovereign
 Xenagos, the Reveler
 Beast Within
 Krosan Grip
-Chord of Calling
+Lignify
 Vines of Vastwood
 Natural Order
 Doubling Season
@@ -703,7 +703,7 @@ Decimate
 Putrefy
 Rendclaw Trow
 Sedraxis Specter
-Sedris, the Traitor King
+Abzan Charm
 Unmake
 Sen Triplets
 Yavimaya Hollow
@@ -717,7 +717,7 @@ Vivid Creek
 Vivid Marsh
 Vivid Crag
 Vivid Grove
-Magosi, the Waterveil
+Phyrexian Arena
 Temple of Mystery
 Hissing Quagmire
 Temple of Malady
@@ -741,12 +741,12 @@ Thespian's Stage
 Kher Keep
 Cascading Cataracts
 Maze of Ith
-Dryad Arbor
+Ghalta, Primal Hunger
 Boseiju, Who Shelters All
 Reliquary Tower
 Tolarian Academy
 Academy Ruins
-Faerie Conclave
+Murderous Cut
 Mosswort Bridge
 Dark Depths
 Sejiri Steppe
