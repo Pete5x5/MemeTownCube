@@ -261,7 +261,7 @@ Sorin, Grim Nemesis
 Vindicate
 Deathrite Shaman
 Vraska, Relic Seeker
-Status // Statue
+Swiftblade Vindicator
 Abrupt Decay
 Assassin's Trophy
 Coiling Oracle
@@ -270,7 +270,7 @@ Simic Sky Swallower
 Shardless Agent
 Stormchaser Mage
 Fire // Ice
-Izzet Charm
+Ionize
 Electrolyze
 Figure of Destiny
 Integrity // Intervention
@@ -306,7 +306,7 @@ Ratchet Bomb
 Shrine of Burning Rage
 Shrine of Loyal Legions
 Smuggler's Copter
-Sorcerous Spyglass
+Pilgrim's Eye
 Umezawa's Jitte
 Everflowing Chalice
 Aethersphere Harvester
@@ -414,7 +414,7 @@ Ranger of Eos
 Archangel of Thune
 Baneslayer Angel
 Regal Caracal
-Ajani Goldmane
+Gideon, Ally of Zendikar
 Harm's Way
 Terminus
 Martial Coup
@@ -468,7 +468,7 @@ Thrun, the Last Troll
 Polukranos, World Eater
 Obstinate Baloth
 Joraga Treespeaker
-Channeler Initiate
+Rhonas the Indomitable
 Fauna Shaman
 Resilient Khenra
 Scavenging Ooze
@@ -595,7 +595,7 @@ Hedron Archive
 Icy Manipulator
 Memory Jar
 Mindslaver
-Epochrasite
+Sword of Vengeance
 Filigree Familiar
 Metalworker
 Thought-Knot Seer
@@ -605,7 +605,7 @@ Rings of Brighthearth
 Duplicant
 Kozilek, Butcher of Truth
 Ulamog, the Ceaseless Hunger
-Elder Deep-Fiend
+Platinum Emperion
 Conqueror's Flail
 Lightning Greaves
 Cultivator's Caravan
@@ -617,7 +617,7 @@ The Immortal Sun
 Hammer of Nazahn
 Argentum Armor
 Blightsteel Colossus
-Contagion Engine
+Soul of New Phyrexia
 Darksteel Plate
 Hex Parasite
 Eldrazi Monument
@@ -641,8 +641,8 @@ Keranos, God of Storms
 Daretti, Ingenious Iconoclast
 Dragonlord Ojutai
 Gelectrode
-Jori En, Ruin Diver
-Kiora, Master of the Depths
+Fevered Visions
+Nissa, Steward of Elements
 Prime Speaker Zegana
 Spitting Image
 Kiora's Follower
@@ -669,7 +669,7 @@ Cut // Ribbons
 Recoil
 Dragonlord Silumgar
 Lim-Dûl's Vault
-Tezzeret, Agent of Bolas
+Profane Procession
 Forbidden Alchemy
 Far // Away
 Thought Erasure
@@ -682,15 +682,15 @@ Bituminous Blast
 Etherium-Horn Sorcerer
 Ardent Plea
 Wrexial, the Risen Deep
-Mnemonic Betrayal
+Arixmethes, Slumbering Isle
 Godsire
 Hindering Light
 Mortify
 Void
-Nazahn, Revered Bladesmith
+Dragonlord Dromoka
 Sarkhan Unbroken
-Deity of Scars
-Behemoth Sledge
+Tajic, Legion's Edge
+Niv-Mizzet, the Firemind
 Boggart Ram-Gang
 Dragon Broodmother
 Empyrial Archangel
