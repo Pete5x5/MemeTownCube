@@ -9,7 +9,7 @@ Adanto Vanguard
 Glory-Bound Initiate
 Selfless Spirit
 Stoneforge Mystic
-Thalia's Lieutenant
+Gisela, the Broken Blade
 Thalia, Guardian of Thraben
 Wall of Omens
 Banisher Priest
@@ -39,10 +39,10 @@ Gather the Townsfolk
 Council's Judgment
 Settle the Wreckage
 Timely Reinforcements
-Armageddon
+Heavenly Blademaster
 Sram's Expertise
 Wrath of God
-Approach of the Second Sun
+Felidar Sovereign
 Land Tax
 Cast Out
 Spear of Heliod
@@ -108,7 +108,7 @@ Gifted Aetherborn
 Glint-Sleeve Siphoner
 Kitesail Freebooter
 Mindblade Render
-Pack Rat
+Dark Confidant
 Drana, Liberator of Malakir
 Flesh Carver
 Ophiomancer
@@ -206,7 +206,7 @@ Strangleroot Geist
 Sylvan Advocate
 Eternal Witness
 Jadelight Ranger
-Ramunap Excavator
+Ravenous Slime
 Reclamation Sage
 Rishkar, Peema Renegade
 Thrashing Brontodon
@@ -234,7 +234,7 @@ Search for Tomorrow
 Greater Good
 Oath of Nissa
 Rancor
-Glimpse Of Nature
+Nullhide Ferox
 Awakening Zone
 Sylvan Library
 Courser of Kruphix
@@ -282,7 +282,7 @@ Emrakul, the Promised End
 Karn, Scion of Urza
 Ugin, the Spirit Dragon
 Bomat Courier
-Hangarback Walker
+Fellwar Stone
 Metallic Mimic
 Phyrexian Revoker
 Scrapheap Scrounger
@@ -290,7 +290,7 @@ Spellskite
 Walking Ballista
 Solemn Simulacrum
 Wurmcoil Engine
-Myr Battlesphere
+Platinum Angel
 Chromatic Lantern
 Retrofitter Foundry
 Sensei's Divining Top
@@ -309,7 +309,7 @@ Smuggler's Copter
 Pilgrim's Eye
 Umezawa's Jitte
 Everflowing Chalice
-Aethersphere Harvester
+Aether Vial
 Coalition Relic
 Crucible of Worlds
 Mimic Vat
@@ -396,7 +396,7 @@ Enlightened Tutor
 Iona, Shield of Emeria
 Oblivion Ring
 Reveillark
-Grand Abolisher
+Miraculous Recovery
 Student of Warfare
 Anafenza, Kin-Tree Spirit
 Consul's Lieutenant
@@ -418,7 +418,7 @@ Gideon, Ally of Zendikar
 Harm's Way
 Terminus
 Martial Coup
-Entreat the Angels
+Bruna, the Fading Light
 Balance
 History of Benalia
 Moat
@@ -426,7 +426,7 @@ Unburial Rites
 Graveyard Marshal
 Relentless Dead
 Vampire Hexmage
-Zulaport Cutthroat
+Dusk Urchins
 Plaguecrafter
 Geralf's Messenger
 Midnight Reaper
@@ -438,7 +438,7 @@ Phyrexian Obliterator
 Rend Flesh
 Vampiric Tutor
 Dark Ritual
-Tragic Slip
+Nether Traitor
 Diabolic Edict
 Malicious Affliction
 Reanimate
@@ -447,13 +447,13 @@ Bitterblossom
 Urborg, Tomb of Yawgmoth
 Cabal Coffers
 Cast Down
-Guul Draz Assassin
+Phyrexian Crusader
 Phylactery Lich
 Sudden Death
 Sudden Spoiling
 Sadistic Sacrament
 Sorin Markov
-Hunted Horror
+Vindictive Lich
 Maralen of the Mornsong
 Makeshift Mannequin
 Abyssal Persecutor
@@ -489,11 +489,11 @@ Sandwurm Convergence
 Birthing Pod
 Warden of the First Tree
 Summoning Trap
-Baloth Cage Trap
+Song of the Dryads
 Quirion Elves
 Heroic Intervention
 Predator Ooze
-Stonewood Invocation
+Rishkar's Expertise
 Chameleon Colossus
 Cliffrunner Behemoth
 Helix Pinnacle
@@ -501,7 +501,7 @@ Khalni Heart Expedition
 Mul Daya Channelers
 Omnath, Locus of Mana
 Protean Hulk
-Woodland Guidance
+Berserk
 Thassa, God of the Sea
 Stunt Double
 Phyrexian Metamorph
@@ -511,7 +511,7 @@ Riftwing Cloudskate
 Tamiyo, the Moon Sage
 Into the Roil
 Disallow
-Thirst for Knowledge
+Aetherize
 Force of Will
 Show and Tell
 Tinker
@@ -520,7 +520,7 @@ Rite of Replication
 Bribery
 Upheaval
 Crystal Shard
-Mindbreak Trap
+Kira, Great Glass-Spinner
 Archive Trap
 Rewind
 Trickbind
@@ -528,7 +528,7 @@ Temporal Adept
 Desertion
 Viral Drake
 Ethersworn Adjudicator
-Echo Mage
+Sea Gate Oracle
 Lighthouse Chronologist
 Master Transmuter
 Savor the Moment
@@ -540,7 +540,7 @@ Time Stop
 Bringer of the Blue Dawn
 Clockspinning
 Chronozoa
-Magus of the Future
+Insidious Will
 Teferi, Mage of Zhalfir
 Ember Hauler
 Keldon Marauders
@@ -567,19 +567,19 @@ Faithless Looting
 Bonfire of the Damned
 Kari Zev's Expertise
 Banefire
-Devil's Play
+Wild Ricochet
 Ball Lightning
 Smash to Smithereens
 Priest of Urabrask
-Flamerush Rider
-Demanding Dragon
+Hazoret the Fervent
+Mindclaw Shaman
 Pact of the Titan
 Magus of the Moon
-Godo, Bandit Warlord
+Charging Monstrosaur
 Bloodhall Ooze
 Countryside Crusher 
 Hellspark Elemental
-Browbeat
+Temur Battle Rage
 Blood Moon
 Vulshok Sorcerer
 Mox Diamond
