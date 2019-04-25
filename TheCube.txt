@@ -91,18 +91,18 @@ Ponder
 Preordain
 Temporal Mastery
 Crush of Tentacles
-Treasure Cruise
+Aethersnatch
 Search for Azcanta
 Opposition
 Bloodsoaked Champion
-Carrion Feeder
+Banehound
 Diregraf Ghoul
 Crypt Ghast
 Gravecrawler
 Puppeteer Clique
 Asylum Visitor
 Bloodghast
-Desecration Demon
+Spawn of Mayhem
 Dusk Legion Zealot
 Gifted Aetherborn
 Glint-Sleeve Siphoner
@@ -140,7 +140,7 @@ Hymn to Tourach
 Toxic Deluge
 Damnation
 Mind Twist
-Arguel's Blood Fast
+Bolas's Citadel
 Recurring Nightmare
 Falkenrath Gorger
 Soulbright Flamekin
@@ -155,7 +155,7 @@ Dire Fleet Daredevil
 Earthshaker Khenra
 Goblin Cratermaker
 Kari Zev, Skyship Raider
-Young Pyromancer
+Treasure Nabber 
 Ahn-Crop Crasher
 Alesha, Who Smiles at Death
 Goblin Rabblemaster
@@ -183,11 +183,11 @@ Stoke the Flames
 Fireblast
 Chain Lightning
 Forked Bolt
-Arc Trail
+Searing Blood
 Thunderous wrath
 Fiery Confluence
 Hour of Devastation
-The Flame of Keld
+Runaway Steam-Kin
 Sulfuric Vortex
 Simian Spirit Guide
 Arbor Elf
@@ -198,7 +198,7 @@ Llanowar Elves
 Noble Hierarch
 Pelt Collector
 Wild Nacatl
-Abzan Beastmaster
+Wall of Blossoms
 Lotus Cobra
 Rofellos, Llanowar Emissary
 Sakura-Tribe Elder
@@ -221,7 +221,7 @@ Carnage Tyrant
 Primeval Titan
 Craterhoof Behemoth
 Garruk Wildspeaker
-Nissa, Worldwaker
+Nissa, Who Shakes the World
 Verdurous Gearhulk
 Collected Company
 Beastmaster Ascension
@@ -247,10 +247,10 @@ Hostage Taker
 The Scarab God
 Ashiok, Nightmare Weaver
 Baleful Strix
-Rakdos Cackler
+Terminate
 Falkenrath Aristocrat
 Kolaghan's Command
-Dreadbore
+Bedevil
 Bloodbraid Elf
 Dragonlord Atarka
 Burning-Tree Emissary
@@ -265,9 +265,9 @@ Swiftblade Vindicator
 Abrupt Decay
 Assassin's Trophy
 Coiling Oracle
-Edric, Spymaster of Trest
+Hydroid Krasis
 Simic Sky Swallower
-Shardless Agent
+Growth Spiral
 Stormchaser Mage
 Fire // Ice
 Ionize
@@ -304,7 +304,7 @@ Gauntlet of Power
 Sculpting Steel
 Ratchet Bomb
 Shrine of Burning Rage
-Shrine of Loyal Legions
+Role Reversal
 Smuggler's Copter
 Pilgrim's Eye
 Umezawa's Jitte
@@ -395,7 +395,7 @@ Sun Titan
 Enlightened Tutor
 Iona, Shield of Emeria
 Oblivion Ring
-Reveillark
+God-Eternal Oketra
 Miraculous Recovery
 Student of Warfare
 Anafenza, Kin-Tree Spirit
@@ -475,8 +475,8 @@ Scavenging Ooze
 Sylvan Caryatid
 Bear Umbra
 Selvala, Heart of the Wilds
-Bramble Sovereign
-Xenagos, the Reveler
+Prowling Serpopard
+Domri, Chaos Bringer
 Beast Within
 Krosan Grip
 Lignify
@@ -495,7 +495,7 @@ Heroic Intervention
 Predator Ooze
 Rishkar's Expertise
 Chameleon Colossus
-Cliffrunner Behemoth
+Finale of Devastation
 Helix Pinnacle
 Khalni Heart Expedition
 Mul Daya Channelers
@@ -508,7 +508,7 @@ Phyrexian Metamorph
 Pongify
 Meloku the Clouded Mirror
 Riftwing Cloudskate
-Tamiyo, the Moon Sage
+Jace, Wielder of Mysteries
 Into the Roil
 Disallow
 Aetherize
@@ -518,7 +518,7 @@ Tinker
 Deep Analysis
 Rite of Replication
 Bribery
-Upheaval
+Aether Gale
 Crystal Shard
 Kira, Great Glass-Spinner
 Archive Trap
@@ -531,21 +531,21 @@ Ethersworn Adjudicator
 Sea Gate Oracle
 Lighthouse Chronologist
 Master Transmuter
-Savor the Moment
+As Foretold
 Thada Adel, Acquisitor
 Leyline of Anticipation
 Acquire
 Ancestral Vision
 Time Stop
 Bringer of the Blue Dawn
-Clockspinning
+Serum Visions 
 Chronozoa
 Insidious Will
 Teferi, Mage of Zhalfir
 Ember Hauler
-Keldon Marauders
+Spark Double
 Lightning Mauler
-Mogg War Marshal
+Gifts Ungiven
 Chandra's Phoenix
 Dualcaster Mage
 Rampaging Ferocidon
@@ -553,7 +553,7 @@ Greater Gargadon
 Zealous Conscripts
 Stormbreath Dragon
 Goblin Dark-Dwellers
-Purphoros, God of the Forge
+Ilharg, the Raze-Boar
 Avalanche Riders
 Flametongue Kavu
 Hero of Oxid Ridge
@@ -563,8 +563,8 @@ Staggershock
 Titan's Strength
 Incinerate
 Rift Bolt
-Faithless Looting
-Bonfire of the Damned
+Light Up the Stage
+Electrodominance
 Kari Zev's Expertise
 Banefire
 Wild Ricochet
@@ -586,7 +586,7 @@ Mox Diamond
 Chrome Mox
 Ankh of Mishra
 Grafted Wargear
-Pristine Talisman
+Mana Geode
 Sword of Feast and Famine
 Sword of Light and Shadow
 Sword of War and Peace
@@ -648,7 +648,7 @@ Spitting Image
 Kiora's Follower
 The Gitrog Monster
 Maelstrom Pulse
-Golgari Charm
+Leyline Prowler
 Find // Finality
 Magister of Worth
 Ashen Rider
@@ -662,7 +662,7 @@ Fleecemane Lion
 Dryad Militant
 Regisaur Alpha
 Ghor-Clan Rampager
-Rakdos's Return
+The Scorpion God
 Blightning
 Murkfiend Liege
 Cut // Ribbons
@@ -679,8 +679,8 @@ Maelstrom Wanderer
 Enlisted Wurm
 Enigma Sphinx
 Bituminous Blast
-Etherium-Horn Sorcerer
-Ardent Plea
+The Locust God
+Emergency Powers
 Wrexial, the Risen Deep
 Arixmethes, Slumbering Isle
 Godsire
@@ -692,7 +692,7 @@ Sarkhan Unbroken
 Tajic, Legion's Edge
 Niv-Mizzet, the Firemind
 Boggart Ram-Gang
-Dragon Broodmother
+Rhythm of the Wild
 Empyrial Archangel
 Villainous Wealth
 Godhead of Awe
@@ -702,7 +702,7 @@ Madrush Cyclops
 Decimate
 Putrefy
 Rendclaw Trow
-Sedraxis Specter
+Nicol Bolas, Dragon-God
 Abzan Charm
 Unmake
 Sen Triplets
@@ -735,7 +735,7 @@ Temple of Deceit
 Mystic Gate
 Temple of Enlightenment
 Terramorphic Expanse
-Spire of Industry
+Gateway Plaza
 Rogue's Passage
 Thespian's Stage
 Kher Keep
