@@ -1,6 +1,6 @@
 Hopeful Eidolon
 Dauntless Bodyguard
-Emerge Unscathed
+Gods Willing
 Kytheon, Hero of Akros
 Soul Warden
 Mother of Runes
@@ -27,7 +27,7 @@ Angel of Sanctions
 Archangel Avacyn
 Elspeth, Knight-Errant
 Porcelain Legionnaire
-Mana Tithe
+Condemn
 Path to Exile
 Secure the Wastes
 Swords to Plowshares
@@ -35,7 +35,7 @@ Leyline of Sanctity
 Unexpectedly Absent
 Forsake the Worldly
 Declaration in Stone
-Gather the Townsfolk
+Luminarch Ascension
 Council's Judgment
 Settle the Wreckage
 Timely Reinforcements
@@ -67,7 +67,7 @@ Jace, the Mind Sculptor
 Torrential Gearhulk
 Brainstorm
 Condescend
-Force Spike
+Shifting Shadow
 Opt
 Arcane Denial
 Counterspell
@@ -388,8 +388,8 @@ Kataki, War's Wage
 Mangara of Corondor
 Stony Silence
 Pitfall Trap
-Godsend
-Quest for the Holy Relic
+Seal Away
+Hyena Umbra
 Orim's Chant
 Sun Titan
 Enlightened Tutor
