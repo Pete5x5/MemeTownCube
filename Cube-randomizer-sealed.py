@@ -37,7 +37,14 @@ while True: #Get number of players to be generated
 allcards=[line.strip() for line in open('TheCube.txt')] #Import card list and remove newlines
 
 numcards = int(len(allcards) / players) #Get number of cards per player
+unusedcards1 = int(len(allcards) - (players * numcards)) #get number of unused cards
+
 print('Each player will get ' + str(numcards) + ' cards.')
+print('There will be  ' + str(unusedcards1) + ' cards unused.')
+
+if badarg == 1: #if the generator was not started with a command line argument...
+    print('Press any key to start generating')
+    input() #wait until the user presses a key to start
 
 cardschosen = [] #set all vars as lists
 sealed = []
@@ -47,10 +54,21 @@ for v1 in range(players): #repeat for each player
     sealedfile = open('sealed' + str(int(v1+1)) + '_' + gendate + '.txt', 'w') #create a new file for each player
     for card in range(numcards):
         card = allcards[random.randint(0,len(allcards)-1)] #pick a random card
-        cardschosen += [card] #add the cosen card to it's list
+        cardschosen += [card] #add the chosen card to it's list
         allcards.remove(card) #remove the chosen card from the card pool
         sealedfile.write(card + '\n') #write the card to it's text file
     sealed.append(cardschosen) #save the generated list in the sealed list
     cardschosen = [] #clear cards chosen
     print(sealed[v1]) #print the list to output
     print('')
+
+unusedcards2 = len(allcards) #get the number of cards remaining that have not been put into a sealed pack
+
+if unusedcards2 > 0:
+    sealedfile = open('unused.txt', 'w') #create a new file for the unused cards
+    for card in range(unusedcards2):
+        card = allcards[0] #take the first unused card
+        allcards.remove(card) #remove the chosen card from the card pool
+        sealedfile.write(card + '\n') #write the card to the text file
+    sealed.append(cardschosen) #save the generated list in the sealed list
+    cardschosen = [] #clear cards chosen
