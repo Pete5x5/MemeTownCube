@@ -142,7 +142,7 @@ Damnation
 Mind Twist
 Bolas's Citadel
 Recurring Nightmare
-Falkenrath Gorger
+Fervent Champion
 Soulbright Flamekin
 Vexing Devil
 Goblin Guide
@@ -163,7 +163,7 @@ Legion Warboss
 Pia Nalaar
 Sin Prodder
 Hellrider
-Pia and Kiran Nalaar
+Braid of Fire
 Glorybringer
 Thundermaw Hellkite
 Emissary of Grudges
@@ -178,11 +178,11 @@ Abrade
 Lightning Strike
 Magma Jet
 Searing Blaze
-Wizard's Lightning
+Valakut Awakening
 Stoke the Flames
 Fireblast
 Chain Lightning
-Forked Bolt
+Robber of the Rich
 Searing Blood
 Thunderous wrath
 Fiery Confluence
@@ -570,7 +570,7 @@ Banefire
 Wild Ricochet
 Ball Lightning
 Smash to Smithereens
-Priest of Urabrask
+Bonecrusher Giant
 Hazoret the Fervent
 Mindclaw Shaman
 Pact of the Titan
@@ -580,7 +580,7 @@ Bloodhall Ooze
 Countryside Crusher 
 Hellspark Elemental
 Temur Battle Rage
-Blood Moon
+Ashling the Pilgrim
 Vulshok Sorcerer
 Mox Diamond
 Chrome Mox
