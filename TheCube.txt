@@ -225,7 +225,7 @@ Nissa, Who Shakes the World
 Verdurous Gearhulk
 Collected Company
 Beastmaster Ascension
-Esika, God of the Tree
+Ghalta, Primal Hunger
 Explore
 Farseek
 Life from the Loam
@@ -572,7 +572,7 @@ Ball Lightning
 Smash to Smithereens
 Bonecrusher Giant
 Hazoret the Fervent
-Toralf, God of Fury
+Mindclaw Shaman
 Pact of the Titan
 Magus of the Moon
 Charging Monstrosaur
