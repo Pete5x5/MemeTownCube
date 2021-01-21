@@ -46,7 +46,7 @@ Felidar Sovereign
 Land Tax
 Cast Out
 Spear of Heliod
-Delver of Secrets
+Faerie Seer
 Jace, Vryn's Prodigy
 Looter il-Kor
 Phantasmal Image
@@ -98,7 +98,7 @@ Bloodsoaked Champion
 Banehound
 Diregraf Ghoul
 Crypt Ghast
-Gravecrawler
+Vampire of the Dire Moon
 Puppeteer Clique
 Asylum Visitor
 Bloodghast
@@ -112,7 +112,7 @@ Dark Confidant
 Drana, Liberator of Malakir
 Flesh Carver
 Ophiomancer
-Plague Mare
+Opposition Agent
 Vampire Nighthawk
 Ob Nixilis, the Fallen
 Gonti, Lord of Luxury
@@ -225,7 +225,7 @@ Nissa, Who Shakes the World
 Verdurous Gearhulk
 Collected Company
 Beastmaster Ascension
-Green Sun's Zenith
+Esika, God of the Tree
 Explore
 Farseek
 Life from the Loam
@@ -507,7 +507,7 @@ Stunt Double
 Phyrexian Metamorph
 Pongify
 Meloku the Clouded Mirror
-Riftwing Cloudskate
+Hullbreacher
 Jace, Wielder of Mysteries
 Into the Roil
 Disallow
@@ -542,7 +542,7 @@ Serum Visions
 Chronozoa
 Insidious Will
 Teferi, Mage of Zhalfir
-Ember Hauler
+Warren Instigator
 Spark Double
 Lightning Mauler
 Gifts Ungiven
@@ -572,7 +572,7 @@ Ball Lightning
 Smash to Smithereens
 Bonecrusher Giant
 Hazoret the Fervent
-Mindclaw Shaman
+Toralf, God of Fury
 Pact of the Titan
 Magus of the Moon
 Charging Monstrosaur
@@ -741,7 +741,7 @@ Thespian's Stage
 Kher Keep
 Cascading Cataracts
 Maze of Ith
-Ghalta, Primal Hunger
+Apex Devastator
 Boseiju, Who Shelters All
 Reliquary Tower
 Tolarian Academy
