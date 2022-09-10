@@ -1,4 +1,5 @@
 Dauntless Bodyguard
+Esper Sentinel
 Healer's Hawk
 Hopeful Eidolon
 Kytheon, Hero of Akros
@@ -19,7 +20,6 @@ Selfless Spirit
 Soulfire Grand Master
 Stoneforge Mystic
 Thalia, Guardian of Thraben
-Thalia, Guardian of Thraben
 Wall of Omens
 Banisher Priest
 Benalish Marshal
@@ -39,7 +39,6 @@ Thalia, Heretic Cathar
 Welcoming Vampire
 Arena Rector
 Gisela, the Broken Blade
-Glorious Protector
 Glorious Protector
 Halvar, God of Battle
 Hero of Bladehold
@@ -73,6 +72,7 @@ Secure the Wastes
 Swords to Plowshares
 Unexpectedly Absent
 Forsake the Worldly
+Generous Gift
 Pitfall Trap
 Settle the Wreckage
 Miraculous Recovery
@@ -99,12 +99,12 @@ Cast Out
 Leyline of Sanctity
 Moat
 Faerie Seer
+Baral, Chief of Compliance
 Jace, Vryn's Prodigy
+Ledger Shredder
 Lighthouse Chronologist
-Looter il-Kor
 Phantasmal Image
 Snapcaster Mage
-Spellskite
 Thieving Skydiver
 Thing in the Ice
 Exclusion Mage
@@ -201,11 +201,11 @@ Opposition
 Banehound
 Bloodsoaked Champion
 Diregraf Ghoul
-Hex Parasite
 Vampire of the Dire Moon
 Asylum Visitor
 Bloodghast
 Dark Confidant
+Dauthi Voidwalker
 Dusk Legion Zealot
 Gifted Aetherborn
 Glint-Sleeve Siphoner
@@ -345,11 +345,11 @@ Hellrider
 Hero of Oxid Ridge
 Leyline Tyrant
 Charging Monstrosaur
+Garbage Elemental
 Glorybringer
 Goblin Dark-Dwellers
 Goldspan Dragon
 Ilharg, the Raze-Boar
-Mindclaw Shaman
 Stormbreath Dragon
 Thundermaw Hellkite
 Zealous Conscripts
@@ -418,7 +418,6 @@ Rofellos, Llanowar Emissary
 Sakura-Tribe Elder
 Scavenging Ooze
 Strangleroot Geist
-Sylvan Advocate
 Sylvan Caryatid
 Wall of Blossoms
 Courser of Kruphix
@@ -435,13 +434,14 @@ Reclamation Sage
 Rhonas the Indomitable
 Rishkar, Peema Renegade
 Selvala, Heart of the Wilds
+Steel Leaf Champion
 Thrashing Brontodon
 Tireless Tracker
 Wayward Swordtooth
 Chameleon Colossus
 Nullhide Ferox
-Obstinate Baloth
 Polukranos, World Eater
+Questing Beast
 Ripjaw Raptor
 Saryth, the Viper's Fang
 Surrak, the Hunt Caller
@@ -467,6 +467,7 @@ Berserk
 Crop Rotation
 Vines of Vastwood
 Heroic Intervention
+Once Upon a Time
 Beast Within
 Krosan Grip
 Collected Company
@@ -493,7 +494,6 @@ Awakening Zone
 Beastmaster Ascension
 Garruk's Uprising
 Song of the Dryads
-Bear Umbra
 Greater Good
 Doubling Season
 Unnatural Growth
@@ -515,9 +515,9 @@ Thought Erasure
 Ashiok, Nightmare Weaver
 Recoil
 Hostage Taker
+Notion Thief
+Fallen Shinobi
 The Scarab God
-Dragonlord Silumgar
-Wrexial, the Risen Deep
 Terminate
 Bedevil
 Blightning
@@ -536,16 +536,16 @@ Bloodbraid Elf
 Decimate
 Domri, Chaos Bringer
 Ghor-Clan Rampager
-Regisaur Alpha
+Minsc & Boo, Timeless Heroes
 Dragonlord Atarka
 Dryad Militant
-Dromoka's Command
 Fleecemane Lion
 Qasali Pridemage
 Voice of Resurgence
-Kitchen Finks
+Faeburrow Elder
 Knight of Autumn
 Knight of the Reliquary
+Privileged Position
 Dragonlord Dromoka
 Enlisted Wurm
 Tidehollow Sculler
@@ -558,7 +558,7 @@ Vindicate
 Magister of Worth
 Sorin, Grim Nemesis
 Ashen Rider
-Stormchaser Mage
+Izzet Charm
 Electrolyze
 Fevered Visions
 Gelectrode
@@ -589,31 +589,31 @@ Aurelia, Exemplar of Justice
 Blade Historian
 Integrity // Intervention
 Growth Spiral
-Hydroid Krasis
-Kinnan, Bonder Prodigy
 Kiora's Follower
 Nissa, Steward of Elements
+Oko, Thief of Crowns
+Uro, Titan of Nature's Wrath
+Vorel of the Hull Clade
 Arixmethes, Slumbering Isle
-Murkfiend Liege
+Plasm Capture
 Prime Speaker Zegana
 Spitting Image
-Simic Sky Swallower
 Brokers Ascendancy
-Jenara, Asura of War
 Tamiyo, Field Researcher
+Storvald, Frost Giant Jarl
 Empyrial Archangel
-Ethersworn Adjudicator
+Dakkon, Shadow Slayer
 Sen Triplets
+Tivit, Seller of Secrets
 Enigma Sphinx
-Sphinx of the Steel Wind
 Nicol Bolas, the Ravager
 Nicol Bolas, Dragon-God
 Cruel Ultimatum
-Nicol Bolas, Planeswalker
+Nicol Bolas, God-Pharaoh
 Riveteers Ascendancy
 Madrush Cyclops
-Broodmate Dragon
 Thantis, the Warweaver
+Ziatora, the Incinerator
 Jinnie Fay, Jetmir's Second
 Woolly Thoctar
 Palladia-Mors, the Ruiner
@@ -628,8 +628,8 @@ Surrak Dragonclaw
 Maelstrom Wanderer
 Abzan Charm
 Doran, the Siege Tower
-Siege Rhino
 Nethroi, Apex of Death
+Eerie Ultimatum
 Vadrok, Apex of Thunder
 Hinata, Dawn-Crowned
 Jodah, Archmage Eternal
@@ -639,15 +639,16 @@ Villainous Wealth
 Muldrotha, the Gravetide
 Emergent Ultimatum
 Walking Ballista
-Metallic Mimic
+Hex Parasite
+Ornithopter of Paradise
 Phyrexian Revoker
-Filigree Familiar
+Spellskite
+Circuit Mender
 Metalworker
 Pilgrim's Eye
 Crystalline Crawler
 Silent Arbiter
 Solemn Simulacrum
-Thought-Knot Seer
 Stuffy Doll
 Wandering Archaic
 Duplicant
@@ -660,30 +661,36 @@ Kozilek, Butcher of Truth
 Platinum Emperion
 Ulamog, the Ceaseless Hunger
 Karn, Scion of Urza
+Ugin, the Ineffable
 Karn Liberated
 Ugin, the Spirit Dragon
 Chrome Mox
 Everflowing Chalice
+Mana Crypt
 Mox Diamond
 Aether Vial
 Luxior, Giada's Gift
+Mana Vault
 Retrofitter Foundry
 Sensei's Divining Top
 Shadowspear
 Skullclamp
 Sol Ring
 The Ozolith
+Altar of Dementia
 Ankh of Mishra
 Conqueror's Flail
 Culling Dais
 Fellwar Stone
 Lightning Greaves
+Liquimetal Torque
 Mind Stone
 Ratchet Bomb
 Shrine of Burning Rage
 Smuggler's Copter
 Throne of the God-Pharaoh
 Umezawa's Jitte
+Ashnod's Altar
 Chromatic Lantern
 Coalition Relic
 Crucible of Worlds
@@ -693,13 +700,18 @@ Ensnaring Bridge
 Grafted Wargear
 Mana Geode
 Mimic Vat
+Phyrexian Altar
 Replicating Ring
 Rings of Brighthearth
 Sculpting Steel
 Skyclave Relic
+Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
+Sword of Hearth and Home
 Sword of Light and Shadow
+Sword of Sinew and Steel
+Sword of Truth and Justice
 Sword of Vengeance
 Sword of War and Peace
 Vedalken Shackles
