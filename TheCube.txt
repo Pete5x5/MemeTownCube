@@ -25,13 +25,13 @@ Banisher Priest
 Benalish Marshal
 Blade Splicer
 Brimaz, King of Oreskos
+Cloudsteel Kirin
 Fiend Hunter
 Flickerwisp
 Hallowed Spiritkeeper
 Mangara of Corondor
 Mirran Crusader
 Mirror Entity
-Monastery Mentor
 Porcelain Legionnaire
 Savior of Ollenbock
 Silverblade Paladin
@@ -45,6 +45,7 @@ Hero of Bladehold
 Luminous Broodmoth
 Ranger of Eos
 Restoration Angel
+Serra Paragon
 Sublime Archangel
 Angel of Destiny
 Angel of Invention
@@ -53,7 +54,6 @@ Archangel Avacyn
 Archangel of Thune
 Baneslayer Angel
 God-Eternal Oketra
-Regal Caracal
 Stonehewer Giant
 Felidar Sovereign
 Heavenly Blademaster
@@ -115,7 +115,6 @@ Kira, Great Glass-Spinner
 Man-o'-War
 Nimble Obstructionist
 Sea Gate Oracle
-Temporal Adept
 Thada Adel, Acquisitor
 Thassa, God of the Sea
 Vendilion Clique
@@ -159,6 +158,7 @@ Remand
 Resculpt
 Trickbind
 Unsubstantiate
+Archmage's Charm
 Cackling Counterpart
 Disallow
 Forbidden Alchemy
@@ -304,6 +304,7 @@ Fervent Champion
 Goblin Guide
 Grim Lavamancer
 Monastery Swiftspear
+Shivan Devastator
 Soul-Scar Mage
 Vexing Devil
 Zurgo Bellstriker
@@ -317,10 +318,10 @@ Hellspark Elemental
 Kari Zev, Skyship Raider
 Lightning Mauler
 Lizard Blades
+Managorger Phoenix
 Robber of the Rich
 Runaway Steam-Kin
 Soulbright Flamekin
-Warren Instigator
 Ahn-Crop Crasher
 Alesha, Who Smiles at Death
 Ball Lightning
@@ -345,14 +346,13 @@ Hellrider
 Hero of Oxid Ridge
 Leyline Tyrant
 Charging Monstrosaur
-Garbage Elemental
 Glorybringer
 Goblin Dark-Dwellers
 Goldspan Dragon
 Ilharg, the Raze-Boar
+Noise Marine
 Stormbreath Dragon
 Thundermaw Hellkite
-Zealous Conscripts
 Combustible Gearhulk
 Emissary of Grudges
 Inferno Titan
@@ -408,6 +408,7 @@ Noble Hierarch
 Pelt Collector
 Warden of the First Tree
 Wild Nacatl
+Biophagus
 Bloom Tender
 Fauna Shaman
 Gala Greeters
@@ -422,7 +423,6 @@ Sylvan Caryatid
 Wall of Blossoms
 Courser of Kruphix
 Dryad of the Ilysian Grove
-Eternal Witness
 Jadelight Ranger
 Mul Daya Channelers
 Omnath, Locus of Mana
@@ -520,14 +520,14 @@ Fallen Shinobi
 The Scarab God
 Terminate
 Bedevil
-Blightning
 Daretti, Ingenious Iconoclast
 Kolaghan's Command
 Cut // Ribbons
 Falkenrath Aristocrat
+The Ruinous Powers
 Bituminous Blast
+Chaos Defiler
 Void
-Captive Audience
 Burning-Tree Emissary
 Manamorphose
 Boggart Ram-Gang
@@ -553,8 +553,8 @@ Anguished Unmaking
 Mortify
 Profane Procession
 Sin Collector
-Unmake
 Vindicate
+Sister Repentia
 Magister of Worth
 Sorin, Grim Nemesis
 Ashen Rider
@@ -580,7 +580,7 @@ Vraska, Relic Seeker
 Find // Finality
 Figure of Destiny
 Boros Charm
-Lightning Helix
+Flamescroll Celebrant
 Swiftblade Vindicator
 Akiri, Fearless Voyager
 Boros Reckoner
@@ -592,11 +592,11 @@ Growth Spiral
 Kiora's Follower
 Nissa, Steward of Elements
 Oko, Thief of Crowns
+Tyranid Prime
 Uro, Titan of Nature's Wrath
 Vorel of the Hull Clade
 Arixmethes, Slumbering Isle
 Plasm Capture
-Prime Speaker Zegana
 Spitting Image
 Brokers Ascendancy
 Tamiyo, Field Researcher
@@ -686,9 +686,9 @@ Lightning Greaves
 Liquimetal Torque
 Mind Stone
 Ratchet Bomb
+Resurrection Orb
 Shrine of Burning Rage
 Smuggler's Copter
-Throne of the God-Pharaoh
 Umezawa's Jitte
 Ashnod's Altar
 Chromatic Lantern
@@ -722,7 +722,7 @@ Icy Manipulator
 Lithoform Engine
 Maskwood Nexus
 Nevinyrral's Disk
-Nyx Lotus
+The Golden Throne
 Batterskull
 Eldrazi Monument
 Gauntlet of Power
