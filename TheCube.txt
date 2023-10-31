@@ -4,7 +4,7 @@ Healer's Hawk
 Hopeful Eidolon
 Kytheon, Hero of Akros
 Mother of Runes
-Soul Warden
+Skrelv, Defector Mite
 Student of Warfare
 Adanto Vanguard
 Anafenza, Kin-Tree Spirit
@@ -43,8 +43,8 @@ Glorious Protector
 Halvar, God of Battle
 Hero of Bladehold
 Luminous Broodmoth
-Ranger of Eos
-Restoration Angel
+Myrel, Shield of Argive
+Phyrexian Vindicator
 Serra Paragon
 Sublime Archangel
 Angel of Destiny
@@ -69,6 +69,7 @@ Harm's Way
 Orim's Chant
 Path to Exile
 Secure the Wastes
+Surge of Salvation
 Swords to Plowshares
 Unexpectedly Absent
 Forsake the Worldly
@@ -98,8 +99,10 @@ Oblivion Ring
 Cast Out
 Leyline of Sanctity
 Moat
+Virtue of Loyalty
 Faerie Seer
 Baral, Chief of Compliance
+Faerie Mastermind
 Jace, Vryn's Prodigy
 Ledger Shredder
 Lighthouse Chronologist
@@ -191,6 +194,7 @@ Acquire
 Aether Gale
 Bribery
 Crush of Tentacles
+Alrund's Epiphany
 Temporal Mastery
 Crystal Shard
 Witness Protection
@@ -211,7 +215,6 @@ Gifted Aetherborn
 Glint-Sleeve Siphoner
 Graveyard Marshal
 Kitesail Freebooter
-Mindblade Render
 Nether Traitor
 Nullpriest of Oblivion
 Relentless Dead
@@ -246,11 +249,12 @@ Vindictive Lich
 Doom Whisperer
 Ob Nixilis, the Fallen
 Puppeteer Clique
+Sheoldred
 Shriekmaw
 Grave Titan
 Massacre Wurm
 Noxious Gearhulk
-Tasigur, the Golden Fang
+Phyrexian Fleshgorger
 Sheoldred, Whispering One
 Griselbrand
 Lolth, Spider Queen
@@ -268,6 +272,7 @@ Doom Blade
 Go for the Throat
 Infernal Grasp
 Malicious Affliction
+Sheoldred's Edict
 Ultimate Price
 Dismember
 Hero's Downfall
@@ -298,16 +303,17 @@ Bitterblossom
 The Meathook Massacre
 Phyrexian Arena
 Recurring Nightmare
+Virtue of Persistence
 Bloodhall Ooze
 Bomat Courier
 Fervent Champion
 Goblin Guide
 Grim Lavamancer
 Monastery Swiftspear
+Ragavan, Nimble Pilferer
 Shivan Devastator
 Soul-Scar Mage
 Vexing Devil
-Zurgo Bellstriker
 Abbot of Keral Keep
 Ashling the Pilgrim
 Cemetery Gatekeeper
@@ -394,9 +400,11 @@ Fiery Confluence
 Hour of Devastation
 Braid of Fire
 Curse of Hospitality
+Fable of the Mirror-Breaker
 Shifting Shadow
 Sulfuric Vortex
 Valakut Exploration
+Sneak Attack
 Sunbird's Invocation
 Allosaurus Shepherd
 Arbor Elf
@@ -458,6 +466,7 @@ Primeval Titan
 Nyxbloom Ancient
 Old Gnawbone
 Protean Hulk
+Tyrranax Rex
 Apex Devastator
 Craterhoof Behemoth
 Ghalta, Primal Hunger
@@ -483,6 +492,7 @@ Natural Order
 Rishkar's Expertise
 Tooth and Nail
 Birthing Pod
+The Skullspore Nexus
 Fastbond
 Helix Pinnacle
 Oath of Nissa
@@ -494,20 +504,20 @@ Awakening Zone
 Beastmaster Ascension
 Garruk's Uprising
 Song of the Dryads
+Tribute to the World Tree
 Greater Good
 Doubling Season
-Unnatural Growth
 Sandwurm Convergence
 Hindering Light
 Detention Sphere
 Reflector Mage
 Spell Queller
+Teferi, Time Raveler
 Ojutai's Command
 Swans of Bryn Argoll
 Fractured Identity
 Godhead of Awe
 Teferi, Hero of Dominaria
-Emergency Powers
 Rona's Vortex
 Baleful Strix
 Lim-Dûl's Vault
@@ -627,7 +637,7 @@ Sarkhan Unbroken
 Surrak Dragonclaw
 Maelstrom Wanderer
 Abzan Charm
-Doran, the Siege Tower
+Thalia and The Gitrog Monster
 Nethroi, Apex of Death
 Eerie Ultimatum
 Vadrok, Apex of Thunder
@@ -708,8 +718,10 @@ Skyclave Relic
 Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
+Sword of Forge and Frontier
 Sword of Hearth and Home
 Sword of Light and Shadow
+Sword of Once and Future
 Sword of Sinew and Steel
 Sword of Truth and Justice
 Sword of Vengeance
@@ -731,8 +743,8 @@ Memory Jar
 Argentum Armor
 Mindslaver
 Mycosynth Lattice
-Planar Bridge
 The Immortal Sun
+Portal to Phyrexia
 Eldrazi Conscription
 Celestial Colonnade
 Deserted Beach
